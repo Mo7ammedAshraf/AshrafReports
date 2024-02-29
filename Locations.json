@@ -63,7 +63,6 @@
         ]
       },
       "properties": {
-        "name": "Dammam Port and KAPD LZ  ميناء الدمام و ميناء الملك عبدالعزيز بالدمام المنطقة اللوجستية",
         "styleUrl": "#PolyStyle40",
         "fill-opacity": 0,
         "fill": "#828282",
@@ -72,7 +71,8 @@
         "stroke-width": 3,
         "label-opacity": 0,
         "label-color": "#000000",
-        "ID": 24
+        "اسم الموقع": "Dammam Port and KAPD LZ  ميناء الدمام و ميناء الملك عبدالعزيز بالدمام المنطقة اللوجستية",
+        "#": 24
       },
       "id": "ID_40000"
     },
@@ -170,7 +170,6 @@
         ]
       },
       "properties": {
-        "name": "JIP and Jip log zone - ميناء جدة الإسلامي والمنطقة اللوجستية في ميناء جدة الإسلامي",
         "styleUrl": "#PolyStyle40",
         "fill-opacity": 0,
         "fill": "#828282",
@@ -178,7 +177,8 @@
         "stroke": "#e60000",
         "stroke-width": 3,
         "label-opacity": 0,
-        "label-color": "#000000"
+        "label-color": "#000000",
+        "اسم الموقع": "JIP and Jip log zone - ميناء جدة الإسلامي والمنطقة اللوجستية في ميناء جدة الإسلامي"
       },
       "id": "ID_60000"
     },
@@ -256,7 +256,6 @@
         ]
       },
       "properties": {
-        "name": "Jubail Commercial",
         "styleUrl": "#PolyStyle40",
         "fill-opacity": 0,
         "fill": "#828282",
@@ -264,7 +263,8 @@
         "stroke": "#e60000",
         "stroke-width": 3,
         "label-opacity": 0,
-        "label-color": "#000000"
+        "label-color": "#000000",
+        "اسم الموقع": "Jubail Commercial"
       },
       "id": "ID_80000"
     },
@@ -350,7 +350,6 @@
         ]
       },
       "properties": {
-        "name": "Jubail Industrial",
         "styleUrl": "#PolyStyle40",
         "fill-opacity": 0,
         "fill": "#828282",
@@ -358,7 +357,8 @@
         "stroke": "#e60000",
         "stroke-width": 3,
         "label-opacity": 0,
-        "label-color": "#000000"
+        "label-color": "#000000",
+        "اسم الموقع": "Jubail Industrial"
       },
       "id": "ID_100000"
     },
@@ -408,7 +408,6 @@
         ]
       },
       "properties": {
-        "name": "ميناء الملك عبدالله (KAP",
         "styleUrl": "#PolyStyle40",
         "fill-opacity": 0,
         "fill": "#828282",
@@ -416,7 +415,8 @@
         "stroke": "#e60000",
         "stroke-width": 3,
         "label-opacity": 0,
-        "label-color": "#000000"
+        "label-color": "#000000",
+        "اسم الموقع": "ميناء الملك عبدالله (KAP"
       },
       "id": "ID_120000"
     },
@@ -450,7 +450,6 @@
         ]
       },
       "properties": {
-        "name": "ابتاون جدة / المنطقة اللوجستية المتكاملة الخاصة",
         "styleUrl": "#PolyStyle40",
         "fill-opacity": 0,
         "fill": "#828282",
@@ -458,7 +457,8 @@
         "stroke": "#e60000",
         "stroke-width": 3,
         "label-opacity": 0,
-        "label-color": "#000000"
+        "label-color": "#000000",
+        "اسم الموقع": "ابتاون جدة / المنطقة اللوجستية المتكاملة الخاصة"
       },
       "id": "ID_140000"
     },
@@ -528,7 +528,6 @@
         ]
       },
       "properties": {
-        "name": "Yanbu Commercial",
         "styleUrl": "#PolyStyle40",
         "fill-opacity": 0,
         "fill": "#828282",
@@ -536,7 +535,8 @@
         "stroke": "#e60000",
         "stroke-width": 3,
         "label-opacity": 0,
-        "label-color": "#000000"
+        "label-color": "#000000",
+        "اسم الموقع": "Yanbu Commercial"
       },
       "id": "ID_160000"
     },
@@ -582,7 +582,6 @@
         ]
       },
       "properties": {
-        "name": "Yanbu industrial",
         "styleUrl": "#PolyStyle40",
         "fill-opacity": 0,
         "fill": "#828282",
@@ -590,7 +589,8 @@
         "stroke": "#e60000",
         "stroke-width": 3,
         "label-opacity": 0,
-        "label-color": "#000000"
+        "label-color": "#000000",
+        "اسم الموقع": "Yanbu industrial"
       },
       "id": "ID_180000"
     },
@@ -724,7 +724,6 @@
         ]
       },
       "properties": {
-        "name": "المنطقة اللوجستية المتكاملة الخاصة بالرياض",
         "styleUrl": "#PolyStyle40",
         "fill-opacity": 0,
         "fill": "#828282",
@@ -732,7 +731,8 @@
         "stroke": "#e60000",
         "stroke-width": 3,
         "label-opacity": 0,
-        "label-color": "#000000"
+        "label-color": "#000000",
+        "اسم الموقع": "المنطقة اللوجستية المتكاملة الخاصة بالرياض"
       },
       "id": "ID_190000"
     },
@@ -770,7 +770,6 @@
         ]
       },
       "properties": {
-        "name": "المركز اللوجستي للسكك الحديدية في ينبع",
         "styleUrl": "#PolyStyle40",
         "fill-opacity": 0,
         "fill": "#828282",
@@ -778,7 +777,8 @@
         "stroke": "#e60000",
         "stroke-width": 3,
         "label-opacity": 0,
-        "label-color": "#000000"
+        "label-color": "#000000",
+        "اسم الموقع": "المركز اللوجستي للسكك الحديدية في ينبع"
       },
       "id": "ID_190001"
     },
@@ -812,7 +812,6 @@
         ]
       },
       "properties": {
-        "name": "المركز اللوجستي للسكك الحديدة بالجبيل",
         "styleUrl": "#PolyStyle40",
         "fill-opacity": 0,
         "fill": "#828282",
@@ -820,7 +819,8 @@
         "stroke": "#e60000",
         "stroke-width": 3,
         "label-opacity": 0,
-        "label-color": "#000000"
+        "label-color": "#000000",
+        "اسم الموقع": "المركز اللوجستي للسكك الحديدة بالجبيل"
       },
       "id": "ID_190002"
     },
@@ -966,7 +966,6 @@
         ]
       },
       "properties": {
-        "name": "المركز اللوجستي للسكك الحديدة في جدة",
         "styleUrl": "#PolyStyle40",
         "fill-opacity": 0,
         "fill": "#828282",
@@ -974,7 +973,8 @@
         "stroke": "#e60000",
         "stroke-width": 3,
         "label-opacity": 0,
-        "label-color": "#000000"
+        "label-color": "#000000",
+        "اسم الموقع": "المركز اللوجستي للسكك الحديدة في جدة"
       },
       "id": "ID_190003"
     },
@@ -1060,7 +1060,6 @@
         ]
       },
       "properties": {
-        "name": "المركز اللوجستي للسكك الحديدية بشمال الرياض",
         "styleUrl": "#PolyStyle40",
         "fill-opacity": 0,
         "fill": "#828282",
@@ -1068,7 +1067,8 @@
         "stroke": "#e60000",
         "stroke-width": 3,
         "label-opacity": 0,
-        "label-color": "#000000"
+        "label-color": "#000000",
+        "اسم الموقع": "المركز اللوجستي للسكك الحديدية بشمال الرياض"
       },
       "id": "ID_190004"
     },
@@ -1150,7 +1150,6 @@
         ]
       },
       "properties": {
-        "name": "الوادي الصناعي بمدينة الملك عبدالله الاقتصادية",
         "styleUrl": "#PolyStyle40",
         "fill-opacity": 0,
         "fill": "#828282",
@@ -1158,7 +1157,8 @@
         "stroke": "#e60000",
         "stroke-width": 3,
         "label-opacity": 0,
-        "label-color": "#000000"
+        "label-color": "#000000",
+        "اسم الموقع": "الوادي الصناعي بمدينة الملك عبدالله الاقتصادية"
       },
       "id": "ID_190005"
     },
@@ -1200,7 +1200,6 @@
         ]
       },
       "properties": {
-        "name": "المركز اللوجستي بمدينة الملك عبدالله الاقتصادية",
         "styleUrl": "#PolyStyle40",
         "fill-opacity": 0,
         "fill": "#828282",
@@ -1208,7 +1207,8 @@
         "stroke": "#e60000",
         "stroke-width": 3,
         "label-opacity": 0,
-        "label-color": "#000000"
+        "label-color": "#000000",
+        "اسم الموقع": "المركز اللوجستي بمدينة الملك عبدالله الاقتصادية"
       },
       "id": "ID_190006"
     },
@@ -1270,7 +1270,6 @@
         ]
       },
       "properties": {
-        "name": "الميناء الجاف بمدينة الملك عبدالله الاقتصادية",
         "styleUrl": "#PolyStyle40",
         "fill-opacity": 0,
         "fill": "#828282",
@@ -1278,7 +1277,8 @@
         "stroke": "#e60000",
         "stroke-width": 3,
         "label-opacity": 0,
-        "label-color": "#000000"
+        "label-color": "#000000",
+        "اسم الموقع": "الميناء الجاف بمدينة الملك عبدالله الاقتصادية"
       },
       "id": "ID_190007"
     },
@@ -1372,7 +1372,6 @@
         ]
       },
       "properties": {
-        "name": "المركز اللوجستي للسكك الحديدية بالدمام",
         "styleUrl": "#PolyStyle40",
         "fill-opacity": 0,
         "fill": "#828282",
@@ -1380,7 +1379,8 @@
         "stroke": "#e60000",
         "stroke-width": 3,
         "label-opacity": 0,
-        "label-color": "#000000"
+        "label-color": "#000000",
+        "اسم الموقع": "المركز اللوجستي للسكك الحديدية بالدمام"
       },
       "id": "ID_190008"
     },
@@ -1438,7 +1438,6 @@
         ]
       },
       "properties": {
-        "name": "ميناء حديثة الجاف الجديد",
         "styleUrl": "#PolyStyle40",
         "fill-opacity": 0,
         "fill": "#828282",
@@ -1446,7 +1445,8 @@
         "stroke": "#e60000",
         "stroke-width": 3,
         "label-opacity": 0,
-        "label-color": "#000000"
+        "label-color": "#000000",
+        "اسم الموقع": "ميناء حديثة الجاف الجديد"
       },
       "id": "ID_190009"
     },
@@ -6504,7 +6504,6 @@
         ]
       },
       "properties": {
-        "name": "جلوري (الموقع المقترح (",
         "styleUrl": "#PolyStyle40",
         "fill-opacity": 0,
         "fill": "#828282",
@@ -6512,7 +6511,8 @@
         "stroke": "#e60000",
         "stroke-width": 3,
         "label-opacity": 0,
-        "label-color": "#000000"
+        "label-color": "#000000",
+        "اسم الموقع": "جلوري (الموقع المقترح ("
       },
       "id": "ID_210000"
     }
