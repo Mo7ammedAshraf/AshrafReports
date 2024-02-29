@@ -71,7 +71,8 @@
         "stroke": "#e60000",
         "stroke-width": 3,
         "label-opacity": 0,
-        "label-color": "#000000"
+        "label-color": "#000000",
+        "ID": 24
       },
       "id": "ID_40000"
     },
